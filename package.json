@@ -1,0 +1,14 @@
+{
+  "name": "pcf8574",
+  "version": "0.0.0",
+  "description": "Driver for PCF8574 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Martovs",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  }
+}
